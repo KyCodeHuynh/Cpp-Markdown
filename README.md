@@ -35,6 +35,8 @@ exactly what it does.
 Why?
 ====
 
+*All credit goes to Chad Nelson for this library*
+
 I originally wrote it because I wanted to use the Markdown format in one of my
 own C++ projects, and there was no existing C or C++ implementation that I
 liked. I'm releasing it as open-source because Markdown is an excellent and
